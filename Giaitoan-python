@@ -64,7 +64,7 @@ def main():
                 count_skipped += 1
             elif float(user_try) == answer or float(user_try) == truncate(answer,3):
                 print(true + '\n')
-                count_correct += 1
+                count_correct += 1 
             
             else:
                 print(false + ', Correct answer: ' + str(answer)+ '\n')
