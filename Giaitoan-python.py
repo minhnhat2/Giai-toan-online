@@ -1,6 +1,6 @@
 import random
 import time
-import math
+import math 
 import operator #thực hiện phép toán
 
 # SETUP
